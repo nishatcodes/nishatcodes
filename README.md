@@ -1,5 +1,5 @@
 
-    👋 Hi, My name is Nishat, and I currently attend Simon Fraser University.
+    👋 Hi, My name is Nishat, and I currently a 4th year Statistics student at  Simon Fraser University.
     👀 I’m interested in Biostatistic , Bioinformatics , Machine Learning , Time series Analysis. I love to explore 
        the ways in which technology can be utilized to solve real-world problems and make our lives easier.
     🌱 I’m currently learning advanced concepts in Machine Learning, and Deep Learning 
